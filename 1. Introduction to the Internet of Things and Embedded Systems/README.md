@@ -36,14 +36,23 @@ Taught by:  I**an Harris, Professor**
 
 ## Course Syllabus
 * **Week-01**
-    * L1 - Defining IoT
-	* L2 - trends in Adoption of IoT
-	* L3 - Importance of IoT in Society
+    * **L1 - Defining IoT**
+	* **L2 - trends in Adoption of IoT**
+	* **L3 - Importance of IoT in Society**
+
 * **Week-02**
-    * L1 - Feature & Constraints of Embedded System
-	* L2 - Components of Embedded System
-	* L3 - Interfacing wth the Physical World
+    * **L1 - Feature & Constraints of Embedded System**
+	* **L2 - Components of Embedded System**
+	* **L3 - Interfacing wth the Physical World**
+
 * **Week-03**
+    * **L1 - Hardware Component**
+	* **L2 - Microcontroller & Software**
+	* **L3 - Operating Systems**
+
 * **Week-04**
+    * **L1 - Networking basics**
+	* **L2 - Internet Protocol**
+	* **L3 - Netowrk layers and MANETS**
 
 
