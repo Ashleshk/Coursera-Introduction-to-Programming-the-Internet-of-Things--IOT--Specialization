@@ -28,10 +28,22 @@ Taught by:  I**an Harris, Professor**
 *Department of Computer Science*
 
 <h2> Repository Content </h2>
-<p> For every course in this specialization, there is:</p>
 <ul>
 <li>  Course Summary </li>
 <li>  Course Certificate </li>
 <li>  Assignments </li>
 </ul>
+
+## Course Syllabus
+* **Week-01**
+    * L1 - Defining IoT
+	* L2 - trends in Adoption of IoT
+	* L3 - Importance of IoT in Society
+* **Week-02**
+    * L1 - Feature & Constraints of Embedded System
+	* L2 - Components of Embedded System
+	* L3 - Interfacing wth the Physical World
+* **Week-03**
+* **Week-04**
+
 
