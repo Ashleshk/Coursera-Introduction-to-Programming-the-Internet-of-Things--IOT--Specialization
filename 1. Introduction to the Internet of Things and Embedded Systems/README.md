@@ -56,3 +56,7 @@ Taught by:  I**an Harris, Professor**
 	* **L3 - Netowrk layers and MANETS**
 
 
+## References
+> [Course Link](https://coursera.org/share/368ce853bb581d45b23f4a53747af145)
+> [Certificate](https://github.com/Ashleshk/Coursera-Introduction-to-Programming-the-Internet-of-Things--IOT--Specialization/blob/master/Course-1%20Introduction%20to%20the%20Internet%20of%20Things%20and%20Embedded%20Systems.pdf)
+
