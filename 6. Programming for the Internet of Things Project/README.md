@@ -15,5 +15,5 @@ Taught by:  I**an Harris, Professor**
 ## References
 > [Course Link](https://coursera.org/share/e625b6216bc36a791306d54edfef95b7)
 
-> [Certificate](https://github.com/Ashleshk/Coursera-Introduction-to-Programming-the-Internet-of-Things--IOT--Specialization/blob/master/Course-5%20Interfacing%20with%20Raspberry%20Pi.pdf)
+> [Certificate](https://github.com/Ashleshk/Coursera-Introduction-to-Programming-the-Internet-of-Things--IOT--Specialization/blob/master/Course-6%20Programming%20For%20the%20Internet%20of%20Things%20Project.pdf)
 

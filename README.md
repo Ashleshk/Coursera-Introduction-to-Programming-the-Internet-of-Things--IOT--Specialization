@@ -14,3 +14,14 @@ https://www.coursera.org/specializations/iot
 <li>  Assignments </li>
 </ul>
 
+## Specilisation Courses
+1. Introduction to the Internet of Things and Embedded System
+2. The Arduino Platform and C Programming
+3. Interfacing with the Arduino
+4. The Raspberry Pi Platform and Python Programming for the Raspberry Pi
+5. Interfacing with the Raspberry Pi
+6. Programming for the Internet of Things Project
+
+## Certificate
+[Specialization Certificate](https://coursera.org/share/d5558a677a066760d176a28717fd2612)
+
