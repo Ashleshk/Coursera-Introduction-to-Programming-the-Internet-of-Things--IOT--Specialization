@@ -25,3 +25,5 @@ https://www.coursera.org/specializations/iot
 ## Certificate
 [Specialization Certificate](https://coursera.org/share/d5558a677a066760d176a28717fd2612)
 
+update course questions
+
